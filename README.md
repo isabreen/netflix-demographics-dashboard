@@ -29,4 +29,4 @@ README.md: You're reading it!
 
 📸 Power BI Dashboard
 Check out the LinkedIn post for dashboard visuals and storytelling insights:
-👉 []
+👉 [https://www.linkedin.com/posts/isha-sabreen-33578b207_powerbi-python-datastorytelling-activity-7325450735196798977-5wQL?utm_source=share&utm_medium=member_desktop&rcm=ACoAADSeWBkB6hSiexv7nZ_QN2l-J1AmtzKwNZQ]
