@@ -1,5 +1,6 @@
-🔧 What this project does
+🔧 What this project does: 
 Loads raw Netflix content data
+
 Enriches it with:
 Randomized gender, age group, and view counts
 Multiple demographic categories for storytelling
